@@ -32,4 +32,7 @@ print(f"Transformed URL 1: {transformed_url1}")
 print()
 print(f"Original URL 2: {url2}")
 print(f"Transformed URL 2: {transformed_url2}")
+
+# Makes terminal wait for input before closing
+input("Press Enter to exit...")
 ```
