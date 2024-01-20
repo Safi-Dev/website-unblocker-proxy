@@ -1,6 +1,6 @@
 # Google Translate URL Transformer
 
-VERY simple python program made in 30 minutes(excuse bugs), Transforms given URL into a Google Translate proxy URL, allowing you to access the content through Google Translate.
+VERY simple python program made in 30 minutes(excuse bugs), Transforms given URL into a Google Translate proxy URL, thereby allowing you to access the content through Google Translate.
 
 ## How It Works
 
