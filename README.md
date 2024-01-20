@@ -13,7 +13,7 @@ The script utilizes the `urllib` library to parse the original URL and then cons
 
 ## Example
 ```bash python unblock.py
-Where do you want to go? [https://exam,](https://example.com)
+Where do you want to go? https://example.com
 Original URL: https://example.com
 Transformed URL: https://example-translate-goog.translate.goog/
 ```
