@@ -16,3 +16,20 @@ The script utilizes the `urllib` library to parse the original URL and then cons
 Where do you want to go? [https://exam,](https://example.com)
 Original URL: https://example.com
 Transformed URL: https://example-translate-goog.translate.goog/
+```
+## Multiple Url
+In order to transform multiple urls change the usage to the following, add your own input statement if you want.
+```bash
+# Usage:
+url1 = "http://www.google.com"
+url2 = "http://www.coolmathgames.com"
+
+transformed_url1 = transform_url(url1)
+transformed_url2 = transform_url(url2)
+
+print(f"Original URL 1: {url1}")
+print(f"Transformed URL 1: {transformed_url1}")
+print()
+print(f"Original URL 2: {url2}")
+print(f"Transformed URL 2: {transformed_url2}")
+```
