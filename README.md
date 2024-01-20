@@ -13,8 +13,7 @@ The script utilizes the `urllib` library to parse the original URL and then cons
 3. The script will output the original URL and the transformed URL using Google Translate as a proxy.
 
 ## Example Output
-```bash
-python unblock.py
+```bash python unblock.py
 Where do you want to go? https://example.com
 Original URL: https://example.com
 Transformed URL: https://example-translate-goog.translate.goog/
